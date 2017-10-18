@@ -1,0 +1,11 @@
+C:\Users\Terry\Documents\Visual Studio 2017\Projects\HeadFirst C#\Chapter 14\Linq\Linq\bin\Debug\netcoreapp2.0\Linq.deps.json
+C:\Users\Terry\Documents\Visual Studio 2017\Projects\HeadFirst C#\Chapter 14\Linq\Linq\bin\Debug\netcoreapp2.0\Linq.runtimeconfig.json
+C:\Users\Terry\Documents\Visual Studio 2017\Projects\HeadFirst C#\Chapter 14\Linq\Linq\bin\Debug\netcoreapp2.0\Linq.runtimeconfig.dev.json
+C:\Users\Terry\Documents\Visual Studio 2017\Projects\HeadFirst C#\Chapter 14\Linq\Linq\bin\Debug\netcoreapp2.0\Linq.dll
+C:\Users\Terry\Documents\Visual Studio 2017\Projects\HeadFirst C#\Chapter 14\Linq\Linq\bin\Debug\netcoreapp2.0\Linq.pdb
+C:\Users\Terry\Documents\Visual Studio 2017\Projects\HeadFirst C#\Chapter 14\Linq\Linq\obj\Debug\netcoreapp2.0\Linq.csprojResolveAssemblyReference.cache
+C:\Users\Terry\Documents\Visual Studio 2017\Projects\HeadFirst C#\Chapter 14\Linq\Linq\obj\Debug\netcoreapp2.0\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Terry\Documents\Visual Studio 2017\Projects\HeadFirst C#\Chapter 14\Linq\Linq\obj\Debug\netcoreapp2.0\Linq.AssemblyInfoInputs.cache
+C:\Users\Terry\Documents\Visual Studio 2017\Projects\HeadFirst C#\Chapter 14\Linq\Linq\obj\Debug\netcoreapp2.0\Linq.AssemblyInfo.cs
+C:\Users\Terry\Documents\Visual Studio 2017\Projects\HeadFirst C#\Chapter 14\Linq\Linq\obj\Debug\netcoreapp2.0\Linq.dll
+C:\Users\Terry\Documents\Visual Studio 2017\Projects\HeadFirst C#\Chapter 14\Linq\Linq\obj\Debug\netcoreapp2.0\Linq.pdb
